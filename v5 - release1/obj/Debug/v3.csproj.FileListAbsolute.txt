@@ -1,0 +1,357 @@
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\v3.exe.config
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\v3.exe
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\v3.pdb
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.dll
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\System.CodeDom.dll
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.pdb
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.xml
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sefa\Desktop\C#\v3\bin\Debug\System.CodeDom.xml
+C:\Users\Sefa\Desktop\C#\v3\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\C#\v3\obj\Debug\v3.Form1.resources
+C:\Users\Sefa\Desktop\C#\v3\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Sefa\Desktop\C#\v3\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\C#\v3\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C#\v3\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Sefa\Desktop\C#\v3\obj\Debug\v3.exe
+C:\Users\Sefa\Desktop\C#\v3\obj\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\v3.exe.config
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\v3.exe
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\System.CodeDom.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.pdb
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.xml
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\System.CodeDom.xml
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.exe
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.Form1.resources
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.Form2.resources
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4_origin\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.csproj.ResolveComReference.cache
+C:\Users\Sefa\Desktop\v4_origin\obj\Debug\v3.Form3.resources
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\v4_\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4_\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.csproj.ResolveComReference.cache
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.Form1.resources
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.Form2.resources
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.Form3.resources
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.exe
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v4_\bin\Debug\v3.exe.config
+C:\Users\Sefa\Desktop\v4_\bin\Debug\v3.exe
+C:\Users\Sefa\Desktop\v4_\bin\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\System.CodeDom.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.pdb
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.xml
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sefa\Desktop\v4_\bin\Debug\System.CodeDom.xml
+C:\Users\Sefa\Desktop\v4_\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4_\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4_\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\v3.exe.config
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\v3.exe
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\System.CodeDom.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.pdb
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.xml
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\System.CodeDom.xml
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4.5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.csproj.ResolveComReference.cache
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.Form1.resources
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.Form2.resources
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.Form3.resources
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.exe
+C:\Users\Sefa\Desktop\v4.5\obj\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\v3.exe.config
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\v3.exe
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\System.CodeDom.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.pdb
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.xml
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\System.CodeDom.xml
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.csproj.ResolveComReference.cache
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.Form1.resources
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.Form2.resources
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.Form3.resources
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.exe
+C:\Users\Sefa\Desktop\v4.5 - Kopya\obj\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v5\bin\Debug\v3.exe.config
+C:\Users\Sefa\Desktop\v5\bin\Debug\v3.exe
+C:\Users\Sefa\Desktop\v5\bin\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\System.CodeDom.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.pdb
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.xml
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sefa\Desktop\v5\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sefa\Desktop\v5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sefa\Desktop\v5\bin\Debug\System.CodeDom.xml
+C:\Users\Sefa\Desktop\v5\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\v5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.csproj.ResolveComReference.cache
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.Form1.resources
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.Form2.resources
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.Form3.resources
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.exe
+C:\Users\Sefa\Desktop\v5\obj\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\v3.exe.config
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\v3.exe
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\System.CodeDom.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.pdb
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.xml
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\System.CodeDom.xml
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.csproj.ResolveComReference.cache
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.Form1.resources
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.Form2.resources
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.Form3.resources
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.exe
+C:\Users\Sefa\Desktop\v5 - Kopya\obj\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\v3.exe.config
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\v3.exe
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\v3.pdb
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.Asio.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.Core.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.Midi.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.WinForms.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.WinMM.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\System.CodeDom.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.pdb
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.Asio.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.Core.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.Midi.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.WinForms.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\NAudio.WinMM.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\System.CodeDom.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5 -\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.csproj.ResolveComReference.cache
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.Form1.resources
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.Form2.resources
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.Form3.resources
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.exe
+C:\Users\Sefa\Desktop\v5 -\obj\Debug\v3.pdb
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\v3.exe.config
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\v3.exe
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\v3.pdb
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.Core.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.Asio.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.Core.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.Midi.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.WinForms.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.WinMM.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\System.CodeDom.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.pdb
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.Core.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.Asio.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.Core.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.Midi.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.WinForms.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\NAudio.WinMM.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\System.CodeDom.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\v5 - release1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.Form1.resources
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.Form2.resources
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.Form3.resources
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.exe
+C:\Users\Lenovo\Desktop\v5 - release1\obj\Debug\v3.pdb
