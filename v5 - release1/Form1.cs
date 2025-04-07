@@ -37,8 +37,6 @@ namespace v3
 
         private const string FilePath = "treeData.txt"; //verilerin kaydedildiği yer
 
-        //beko-AIzaSyBX8PmlXRru4xLkkP3ibgVxoo9GS32pZuc
-        //sefa-AIzaSyAlQTC0auemlHGU0TNXQBayooCNFNpJgaA
 
         private YouTubeService youtubeService;
         public Form1()
